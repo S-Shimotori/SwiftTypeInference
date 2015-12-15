@@ -8,7 +8,7 @@
 
 import Foundation
 import Argo
-/*
+
 struct Alternatives {
     let args0: String
     let args1: String
@@ -37,4 +37,3 @@ extension Alternatives: Decodable {
             //<*> json <| "args7" <|> json <| "args7_1"
     }
 }
-*/

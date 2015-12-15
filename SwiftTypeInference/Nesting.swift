@@ -9,7 +9,6 @@
 import Foundation
 import Argo
 
-/*
 struct Nesting {
     struct Nested {
         let args0: String
@@ -54,4 +53,3 @@ extension Nesting: Decodable {
 
     }
 }
-*/

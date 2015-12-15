@@ -8,7 +8,7 @@
 
 import Foundation
 import Argo
-/*
+
 struct Maps {
     let args0: String
     let args1: String
@@ -48,4 +48,4 @@ extension Maps: Decodable {
             <*> (json <|? "args12").map { $0 ?? "default"}
             //<*> (json <|? "args13").map { $0 ?? "default"}
     }
-}*/
+}
